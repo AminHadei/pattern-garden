@@ -28,8 +28,8 @@ function processPayments(payments: Payment[]): void {
 
 function main(): void {
   console.log('╔══════════════════════════════════════════════════════════╗');
-  console.log('║         Payment System Adapter Pattern Example           ║');
-  console.log('║            Converting USD, EUR, GBP to USDT              ║');
+  console.log('║          Payment System Adapter Pattern Example          ║');
+  console.log('║             Converting USD, EUR, GBP to USDT             ║');
   console.log('╚══════════════════════════════════════════════════════════╝\n');
 
   // Create the target USDT payment system
