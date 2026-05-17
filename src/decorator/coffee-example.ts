@@ -26,8 +26,8 @@ function printCoffee(coffee: Coffee): void {
 
 function demonstrateDecorator(): void {
   console.log('╔═══════════════════════════════════════════════════════════╗');
-  console.log('║      Decorator Pattern - Coffee Shop Example              ║');
-  console.log('║         Add Toppings Dynamically                         ║');
+  console.log('║          Decorator Pattern - Coffee Shop Example          ║');
+  console.log('║                  Add Toppings Dynamically                 ║');
   console.log('╚═══════════════════════════════════════════════════════════╝\n');
 
   // Example 1: Simple coffee
@@ -173,13 +173,13 @@ function demonstrateDecorator(): void {
 
   // Summary
   console.log('╔════════════════════════════════════════════════════════════╗');
-  console.log('║  Key Benefits of Decorator Pattern:                       ║');
-  console.log('║    1. Adds functionality dynamically at runtime          ║');
-  console.log('║    2. Flexible alternative to subclassing                ║');
-  console.log('║    3. Can combine decorators in any order                ║');
-  console.log('║    4. Open/Closed Principle - easy to add new decorators║');
-  console.log('║    5. Maintains same interface as original object        ║');
-  console.log('║    6. Can wrap objects multiple times                    ║');
+  console.log('║  Key Benefits of Decorator Pattern:                        ║');
+  console.log('║    1. Adds functionality dynamically at runtime            ║');
+  console.log('║    2. Flexible alternative to subclassing                  ║');
+  console.log('║    3. Can combine decorators in any order                  ║');
+  console.log('║    4. Open/Closed Principle - easy to add new decorators   ║');
+  console.log('║    5. Maintains same interface as original object          ║');
+  console.log('║    6. Can wrap objects multiple times                      ║');
   console.log('╚════════════════════════════════════════════════════════════╝\n');
 }
 
