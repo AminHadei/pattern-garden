@@ -2,6 +2,26 @@
 
 A collection of TypeScript workshop projects demonstrating various design patterns and programming concepts.
 
+## Available Patterns
+
+This repository contains examples of the following design patterns:
+
+### Creational Patterns
+- **Factory Method** (`src/factory/`) - Payment system with different payment methods
+- **Abstract Factory** (`src/abstract-factory/`) - Payment system with families of related products
+- **Builder** (`src/builder/`) - Computer building system with different configurations
+- **Prototype** (`src/prototype/`) - Document management system with cloning
+- **Singleton** (`src/singleton/`) - Logger system with single instance
+
+### Structural Patterns
+- **Adapter** (`src/adapter/`) - Payment system adapter for currency conversion
+- **Decorator** (`src/decorator/`) - Coffee shop with dynamic toppings
+
+### Behavioral Patterns
+- **Observer** (`src/observer/`) - News notification system with subscribers
+- **Strategy** (`src/strategy/`) - Sorting algorithms with interchangeable strategies
+- **Chain of Responsibility** (`src/chain-of-responsibility/`) - Support ticket routing system
+
 ## Installation
 
 This project requires Node.js to be installed on your system. Once Node.js is installed, you can install the project dependencies using any of the following package managers:
