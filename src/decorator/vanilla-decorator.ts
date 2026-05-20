@@ -16,3 +16,4 @@ export class VanillaDecorator extends CoffeeDecorator {
   }
 }
 
+

@@ -57,3 +57,4 @@ export class ChatRoom implements Mediator {
     return this.users.map((user) => user.getName());
   }
 }
+

@@ -97,3 +97,4 @@ This pattern is useful in the following scenarios:
 - Workflow management systems
 - When you have many objects that need to communicate with each other
 - When you want to reduce coupling between objects
+

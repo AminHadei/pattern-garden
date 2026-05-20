@@ -180,3 +180,4 @@ Strategy is a behavioral design pattern that:
 - **Validation**: Different validation strategies
 - **Navigation**: Different routing algorithms (shortest path, fastest route, etc.)
 
+

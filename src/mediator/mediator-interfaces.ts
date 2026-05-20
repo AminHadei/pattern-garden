@@ -28,3 +28,4 @@ export interface Mediator {
    */
   getUsers(): User[];
 }
+

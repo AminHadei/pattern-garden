@@ -170,3 +170,4 @@ Observer is a behavioral design pattern that:
 - **vs Strategy**: Observer is about notification, Strategy is about algorithm selection
 - **vs Command**: Observer is reactive, Command is about encapsulating requests
 
+

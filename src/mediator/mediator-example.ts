@@ -132,3 +132,4 @@ function demonstrateMediator(): void {
 
 // Run the example
 demonstrateMediator();
+
