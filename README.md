@@ -4,7 +4,11 @@ A collection of TypeScript workshop projects demonstrating various design patter
 
 ## Available Patterns
 
-This repository contains examples of the following design patterns:
+This repository contains examples of **24 design patterns** organized into three categories:
+
+- **5 Creational Patterns** - Patterns for object creation
+- **7 Structural Patterns** - Patterns for object composition
+- **12 Behavioral Patterns** - Patterns for object interaction
 
 ### Creational Patterns
 - **Factory Method** (`src/factory/`) - Payment system with different payment methods
@@ -16,11 +20,23 @@ This repository contains examples of the following design patterns:
 ### Structural Patterns
 - **Adapter** (`src/adapter/`) - Payment system adapter for currency conversion
 - **Decorator** (`src/decorator/`) - Coffee shop with dynamic toppings
+- **Bridge** (`src/bridge/`) - Device remote control system separating abstraction from implementation
+- **Composite** (`src/composite/`) - File system treating files and directories uniformly
+- **Flyweight** (`src/flyweight/`) - Text editor efficiently storing characters by sharing common properties
+- **Facade** (`src/facade/`) - Home theater system simplifying complex subsystem interactions
+- **Proxy** (`src/proxy/`) - Image loading system with lazy loading and access control
 
 ### Behavioral Patterns
 - **Observer** (`src/observer/`) - News notification system with subscribers
 - **Strategy** (`src/strategy/`) - Sorting algorithms with interchangeable strategies
 - **Chain of Responsibility** (`src/chain-of-responsibility/`) - Support ticket routing system
+- **Iterator** (`src/iterator/`) - Book collection with sequential access and encapsulated traversal logic
+- **Command** (`src/command/`) - Remote control system encapsulating requests and supporting undo/redo
+- **State** (`src/state/`) - Media player with state-specific behavior (Stopped, Playing, Paused)
+- **Visitor** (`src/visitor/`) - Document export system separating operations from object structure
+- **Memento** (`src/memento/`) - Text editor with undo/redo functionality using state snapshots
+- **Template Method** (`src/template-method/`) - Data processing system defining algorithm skeleton with customizable steps
+- **Mediator** (`src/mediator/`) - Chat room system centralizing communication and reducing coupling between users
 
 ## Installation
 
