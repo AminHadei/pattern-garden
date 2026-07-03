@@ -1,0 +1,250 @@
+{
+  "generatedAt": "2026-07-03T20:25:27.253Z",
+  "patternCount": 22,
+  "sidebar": [
+    {
+      "text": "Home",
+      "link": "/"
+    },
+    {
+      "text": "Creational Patterns",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "Factory Method Pattern - Payment System",
+          "link": "/patterns/factory"
+        },
+        {
+          "text": "Abstract Factory Pattern - Payment System",
+          "link": "/patterns/abstract-factory"
+        },
+        {
+          "text": "Computer Builder Pattern",
+          "link": "/patterns/builder"
+        },
+        {
+          "text": "Prototype Pattern - Document Management System",
+          "link": "/patterns/prototype"
+        },
+        {
+          "text": "Singleton Pattern - Logger System",
+          "link": "/patterns/singleton"
+        }
+      ]
+    },
+    {
+      "text": "Structural Patterns",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "Payment System Adapter Pattern",
+          "link": "/patterns/adapter"
+        },
+        {
+          "text": "Decorator Pattern - Coffee Shop",
+          "link": "/patterns/decorator"
+        },
+        {
+          "text": "Bridge Pattern - Device Remote Control",
+          "link": "/patterns/bridge"
+        },
+        {
+          "text": "Composite Pattern - File System",
+          "link": "/patterns/composite"
+        },
+        {
+          "text": "Flyweight Pattern - Text Editor",
+          "link": "/patterns/flyweight"
+        },
+        {
+          "text": "Facade Pattern - Home Theater System",
+          "link": "/patterns/facade"
+        },
+        {
+          "text": "Proxy Pattern - Image Loading",
+          "link": "/patterns/proxy"
+        }
+      ]
+    },
+    {
+      "text": "Behavioral Patterns",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "Observer Pattern - News Notification System",
+          "link": "/patterns/observer"
+        },
+        {
+          "text": "Strategy Pattern - Sorting Algorithms",
+          "link": "/patterns/strategy"
+        },
+        {
+          "text": "Chain of Responsibility Pattern - Support Ticket System",
+          "link": "/patterns/chain-of-responsibility"
+        },
+        {
+          "text": "Iterator Pattern - Book Collection",
+          "link": "/patterns/iterator"
+        },
+        {
+          "text": "Command Pattern - Remote Control",
+          "link": "/patterns/command"
+        },
+        {
+          "text": "State Pattern - Media Player",
+          "link": "/patterns/state"
+        },
+        {
+          "text": "Visitor Pattern - Document Export System",
+          "link": "/patterns/visitor"
+        },
+        {
+          "text": "Memento Pattern - Text Editor with Undo/Redo",
+          "link": "/patterns/memento"
+        },
+        {
+          "text": "Template Method Pattern - Data Processing",
+          "link": "/patterns/template-method"
+        },
+        {
+          "text": "Mediator Pattern - Chat Room System",
+          "link": "/patterns/mediator"
+        }
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "slug": "abstract-factory",
+      "title": "Abstract Factory Pattern - Payment System",
+      "category": "creational",
+      "sourcePath": "src/abstract-factory/README.md"
+    },
+    {
+      "slug": "bridge",
+      "title": "Bridge Pattern - Device Remote Control",
+      "category": "structural",
+      "sourcePath": "src/bridge/README.md"
+    },
+    {
+      "slug": "chain-of-responsibility",
+      "title": "Chain of Responsibility Pattern - Support Ticket System",
+      "category": "behavioral",
+      "sourcePath": "src/chain-of-responsibility/README.md"
+    },
+    {
+      "slug": "command",
+      "title": "Command Pattern - Remote Control",
+      "category": "behavioral",
+      "sourcePath": "src/command/README.md"
+    },
+    {
+      "slug": "composite",
+      "title": "Composite Pattern - File System",
+      "category": "structural",
+      "sourcePath": "src/composite/README.md"
+    },
+    {
+      "slug": "builder",
+      "title": "Computer Builder Pattern",
+      "category": "creational",
+      "sourcePath": "src/builder/README.md"
+    },
+    {
+      "slug": "decorator",
+      "title": "Decorator Pattern - Coffee Shop",
+      "category": "structural",
+      "sourcePath": "src/decorator/README.md"
+    },
+    {
+      "slug": "facade",
+      "title": "Facade Pattern - Home Theater System",
+      "category": "structural",
+      "sourcePath": "src/facade/README.md"
+    },
+    {
+      "slug": "factory",
+      "title": "Factory Method Pattern - Payment System",
+      "category": "creational",
+      "sourcePath": "src/factory/README.md"
+    },
+    {
+      "slug": "flyweight",
+      "title": "Flyweight Pattern - Text Editor",
+      "category": "structural",
+      "sourcePath": "src/flyweight/README.md"
+    },
+    {
+      "slug": "iterator",
+      "title": "Iterator Pattern - Book Collection",
+      "category": "behavioral",
+      "sourcePath": "src/iterator/README.md"
+    },
+    {
+      "slug": "mediator",
+      "title": "Mediator Pattern - Chat Room System",
+      "category": "behavioral",
+      "sourcePath": "src/mediator/README.md"
+    },
+    {
+      "slug": "memento",
+      "title": "Memento Pattern - Text Editor with Undo/Redo",
+      "category": "behavioral",
+      "sourcePath": "src/memento/README.md"
+    },
+    {
+      "slug": "observer",
+      "title": "Observer Pattern - News Notification System",
+      "category": "behavioral",
+      "sourcePath": "src/observer/README.md"
+    },
+    {
+      "slug": "adapter",
+      "title": "Payment System Adapter Pattern",
+      "category": "structural",
+      "sourcePath": "src/adapter/README.md"
+    },
+    {
+      "slug": "prototype",
+      "title": "Prototype Pattern - Document Management System",
+      "category": "creational",
+      "sourcePath": "src/prototype/README.md"
+    },
+    {
+      "slug": "proxy",
+      "title": "Proxy Pattern - Image Loading",
+      "category": "structural",
+      "sourcePath": "src/proxy/README.md"
+    },
+    {
+      "slug": "singleton",
+      "title": "Singleton Pattern - Logger System",
+      "category": "creational",
+      "sourcePath": "src/singleton/README.md"
+    },
+    {
+      "slug": "state",
+      "title": "State Pattern - Media Player",
+      "category": "behavioral",
+      "sourcePath": "src/state/README.md"
+    },
+    {
+      "slug": "strategy",
+      "title": "Strategy Pattern - Sorting Algorithms",
+      "category": "behavioral",
+      "sourcePath": "src/strategy/README.md"
+    },
+    {
+      "slug": "template-method",
+      "title": "Template Method Pattern - Data Processing",
+      "category": "behavioral",
+      "sourcePath": "src/template-method/README.md"
+    },
+    {
+      "slug": "visitor",
+      "title": "Visitor Pattern - Document Export System",
+      "category": "behavioral",
+      "sourcePath": "src/visitor/README.md"
+    }
+  ]
+}
